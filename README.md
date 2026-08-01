@@ -85,15 +85,28 @@ git clone https://github.com/trishaparmar2907-debug/Food-Ordering-System.git
 5. Build and run the project.
 
 ---
+## 📸 Screenshots
 
-## 🚀 Future Improvements
+### Login Page
+![Login](Screenshots/login.png)
 
-- Password Encryption
-- Admin Dashboard
-- Order History
-- Invoice Generation
-- Online Payment Gateway Integration
-- Email Notifications
+### Registration Page
+![Registration](Screenshots/register.png)
+
+### Home Page
+![Home](Screenshots/home.png)
+
+### Menu Page
+![Menu](Screenshots/menu.png)
+
+### Cart
+![Cart](Screenshots/cart.png)
+
+### Payment
+![Payment](Screenshots/payment.png)
+
+### Feedback
+![Feedback](Screenshots/feedback.png)
 
 ---
 
