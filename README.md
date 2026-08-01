@@ -86,28 +86,6 @@ git clone https://github.com/trishaparmar2907-debug/Food-Ordering-System.git
 
 ---
 
-## 📸 Screenshots
-
-### Login Page
-(Add Screenshot)
-
-### Registration Page
-(Add Screenshot)
-
-### Home/Menu
-(Add Screenshot)
-
-### Cart
-(Add Screenshot)
-
-### Payment
-(Add Screenshot)
-
-### Feedback
-(Add Screenshot)
-
----
-
 ## 🚀 Future Improvements
 
 - Password Encryption
